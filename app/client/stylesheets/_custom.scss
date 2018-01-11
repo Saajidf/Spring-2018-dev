@@ -1,3 +1,36 @@
 // Branding overrides
 //
 // Copy variables from `_branding.scss` to this file to override default values.
+
+/** BRANDING COLORS
+ * primary (default pink): sidebar color, admitted dashboard status
+ * secondary (default purple): header text, submitted/confirmed/checked-in dashboard status
+ * tertiary (default blue): waitlist/declined dashboard status
+ */
+
+// Colors found in packet.
+// #21374B
+// #E7DACB
+// #BE4248
+// #4A89AA
+
+// DEFAULT COLORS, GIVEN ORIGINALLY
+// $primary: #e76482;
+// $secondary: #473899;
+// $tertiary: #4A89AA;
+
+// Colors matched
+// TODO: Test Tertiary Colors
+
+$primary: #21374B;
+$secondary:#4A89AA;
+$tertiary: #BE4248;
+
+/** ASSET URLS
+ * login-bg: image for login splash page
+ */
+
+// OG
+// $login-bg: url('https://s3.amazonaws.com/hackmit-assets/tintedphoto_1920_1080_low.jpg');
+
+$login-bg: url('https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?h=350&auto=compress&cs=tinysrgb');
