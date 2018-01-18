@@ -1,11 +1,11 @@
 {
   "name": "hackumbc-dependencies",
   "version": "0.0.0",
-  "homepage": "https://github.com/techx/hackmit-registration",
+  "homepage": "https://hackumbc.org",
   "authors": [
-    "Edwin Zhang <ehzhang@mit.edu>"
+    "HackUMBC Tech Team"
   ],
-  "description": "just another frickin reg system",
+  "description": "reg system",
   "license": "MIT",
   "ignore": [
     "**/.*",
