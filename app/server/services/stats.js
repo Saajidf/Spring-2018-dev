@@ -19,10 +19,10 @@ function calculateStats(){
       },
       schools: {},
       year: {
-        '2016': 0,
-        '2017': 0,
-        '2018': 0,
-        '2019': 0,
+        'Fresh': 0,
+        'Soph': 0,
+        'Junior': 0,
+        'Senior': 0,
       }
     },
 
