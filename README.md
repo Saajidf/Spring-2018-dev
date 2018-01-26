@@ -127,4 +127,5 @@ Quill Development
 * https://github.com/techx/quill
 * https://api.slack.com/
 * https://developers.google.com/google-apps/calendar/
+* https://stackoverflow.com/questions/1922910/force-browser-to-clear-cache
 
